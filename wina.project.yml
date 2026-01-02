@@ -1,0 +1,8 @@
+project: HelloWorld
+
+# export: app # Recommended only if this project is a dependency
+
+modules:
+  - app
+  # Add more with `wina add <URL>`!
+
